@@ -19,3 +19,22 @@
 .bootstrap{
     background-color: darkgrey;
 }
+
+#cursos,
+#web{
+    display: block;
+    width: 300px;
+    height: 100px;
+}
+.html,
+.css{
+    display: inline;
+    width: 300px;
+    height: 100px;
+}
+.java,
+.bootstrap{
+    display: inline-block;
+    width: 300px;
+    height: 100px;
+}
