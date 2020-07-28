@@ -1,3 +1,4 @@
+/*
 #cursos{
     background-color: fuchsia;
 }
@@ -37,4 +38,37 @@
     display: inline-block;
     width: 300px;
     height: 100px;
+} */
+
+body{
+    font-size: 32px;
+    margin: 0;
 }
+.frase1, .frase2, .referencias{
+    text-align: justify;
+    width: 500px;
+    background-color: yellow;
+}
+
+p{
+    margin: 10px;
+}
+
+.referencias{
+    background-color: pink;
+    height: 20px;
+}
+
+.frase1{
+    border: 3px solid red;
+}
+
+.frase2{
+    box-sizing: border-box;
+    border: 3px solid red;
+    padding: 20px;
+}
+
+padding: 20px;
+margin: 0 auto;
+border: 3px solid red;
